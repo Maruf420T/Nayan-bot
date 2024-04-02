@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "MAHABUB-BOT",
-  "PREFIX": "/",
+  "BOTNAME": "MARUF-BOT",
+  "PREFIX": "*",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "61558094156083",
+    "61558094156083"
   ],
   "ADMINBOT": [
-    "100014754734049",
-    "100000959749712"
+    "100065249982790",
+    "100065249982790"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
